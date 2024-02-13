@@ -21,12 +21,15 @@ Ensure you have Python 3.8+ and pip installed on your system.
 
 ```bash
 git clone https://github.com/PedramMadani/financial_analysis.git
+```
 Navigate to the project directory:
-bash
-Copy code
+Copy code:
+```bash
 cd financial_analysis
 Install the required dependencies:
-Copy code
+```
+Copy code:
+```bash
 pip install -r requirements.txt
 ```
 # Usage
