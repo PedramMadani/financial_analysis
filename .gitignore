@@ -1,0 +1,4 @@
+financial_analysis_env/
+*.pyd
+*.dll
+*.lib

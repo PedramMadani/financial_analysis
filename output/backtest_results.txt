@@ -1,0 +1,4 @@
+Final investment after backtesting: 15079.471264953434
+Maximum Drawdown: -0.1504708476344836
+Sharpe Ratio: 0.13723833057321322
+Value at Risk (VaR): -0.017166821165668464
